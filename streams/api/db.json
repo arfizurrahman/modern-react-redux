@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "My another stream",
+      "description": "This is another great stream",
+      "id": 2
+    },
+    {
+      "title": "Me streaming component reuse",
+      "description": "Watch me refactor to some component!",
+      "id": 4
+    }
+  ]
+}
